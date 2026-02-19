@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Proxxi.Plugin.ProxyScrape/Proxxi.Plugin.ProxyScrape.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Proxxi.Plugin.ProxyScrape.Tests/Proxxi.Plugin.ProxyScrape.Tests.csproj" />
+  </Folder>
+</Solution>
